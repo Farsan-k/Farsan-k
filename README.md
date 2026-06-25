@@ -161,7 +161,7 @@ Exploratory data analysis on job market dataset to uncover insights.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farsan-k&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farsan-k&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
 
 </div>
 
