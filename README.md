@@ -154,7 +154,7 @@ Exploratory data analysis on job market dataset to uncover insights.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Farsan-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Farsan's GitHub Stats" width="49%" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=Farsan-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Farsan's GitHub Stats" width="60%" /> 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farsan-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="49%" /> -->
 
 </div>
@@ -164,16 +164,6 @@ Exploratory data analysis on job market dataset to uncover insights.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farsan-k&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%" />
 
 </div>
-
-<div align="center">
-
-| Total Repos | Total Stars | Contributions | This Year |
-|:--------------:|:-------------:|:----------------:|:------------:|
-| **14** | **24** | **771** | **771** |
-
-</div>
-
----
 
 ## LeetCode
 
