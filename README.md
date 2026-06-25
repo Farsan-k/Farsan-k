@@ -192,16 +192,6 @@ Exploratory data analysis on job market dataset to uncover insights.
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=Farsan-k&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
