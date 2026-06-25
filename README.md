@@ -32,7 +32,7 @@ Working with SQL & Databases
 Building Scalable AI Solutions  
 
 **Kerala, India**  
-**LinkedIn:** [linkedin.com/in/farsan-k](https://linkedin.com/in/farsan-k)  
+**LinkedIn:** [farsan-k](https://www.linkedin.com/in/farsank/)  
 **Email:** farsanfarsank41@gmail.com  
 
 ---
