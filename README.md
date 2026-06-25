@@ -22,8 +22,6 @@
 
 <img align="right" src="./assets/profile.png" alt="Farsan K" width="180" style="border-radius: 50%; margin-left: 20px;" />
 
-## About Me
-
 Hi, I'm **Farsan K**, an **AI & Machine Learning Engineer** and **Data Scientist** with a strong passion for solving real-world problems using data and artificial intelligence.
 
 I enjoy learning how intelligent systems work, from data preprocessing and statistical analysis to machine learning, deep learning, and model deployment. I believe in learning by building, so I continuously work on hands-on projects that strengthen my practical skills.
