@@ -12,7 +12,7 @@
 # Hi, I'm **Farsan K**
 ###  AI & ML Engineer | Data Scientist
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Aspiring+Machine+Learning+Engineer;Building+Intelligent+AI+Solutions;Turning+Data+into+Actionable+Insights;End-to-End+ML+%26+MLOps+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+Intelligent+AI+Solutions;Turning+Data+into+Actionable+Insights;End-to-End+ML+%26+MLOps+Enthusiast;AI+And+ML+Engineer;Data+Scientist" alt="Typing SVG" />
 
 </div>
 
@@ -22,14 +22,25 @@
 
 <img align="right" src="./assets/profile.png" alt="Farsan K" width="180" style="border-radius: 50%; margin-left: 20px;" />
 
-I am a passionate **Machine Learning Engineer** who loves turning data into actionable insights and building end-to-end AI solutions. I enjoy working on real-world problems that create value and make a difference.
+## About Me
 
-Machine Learning & Deep Learning  
-Data Analysis & Visualization  
-Model Deployment & MLOps  
-API Development with FastAPI  
-Working with SQL & Databases  
-Building Scalable AI Solutions  
+Hi, I'm **Farsan K**, an **AI & Machine Learning Engineer** and **Data Scientist** with a strong passion for solving real-world problems using data and artificial intelligence.
+
+I enjoy learning how intelligent systems work, from data preprocessing and statistical analysis to machine learning, deep learning, and model deployment. I believe in learning by building, so I continuously work on hands-on projects that strengthen my practical skills.
+
+Currently, I'm focused on developing expertise in:
+
+- Python for Data Science
+- Machine Learning
+- Data Analysis & Visualization
+- SQL & Database Management
+- MLOps & Model Deployment
+
+I'm constantly improving my problem-solving abilities through coding practice, real-world projects, and continuous learning. My goal is to become a skilled AI & Machine Learning Engineer who builds scalable, impactful, and production-ready AI solutions.
+
+Outside of coding, I enjoy exploring new technologies, contributing to open-source projects, and expanding my knowledge in the rapidly evolving field of Artificial Intelligence.
+
+**"Learn. Build. Improve. Repeat."**
 
 **Kerala, India**  
 **LinkedIn:** [farsan-k](https://www.linkedin.com/in/farsank/)  
