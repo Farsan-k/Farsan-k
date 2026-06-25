@@ -196,7 +196,9 @@ Exploratory data analysis on job market dataset to uncover insights.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Farsan-k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" /></div>
+<img src="https://github-trophies.vercel.app/?username=Farsan-k&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
+
+</div>
 
 ---
 
