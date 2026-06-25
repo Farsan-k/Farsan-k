@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <!-- HEADER BANNER - Replace with your own banner image -->
@@ -9,8 +10,8 @@
 
 <div align="center">
 
-# 👋 Hi, I'm **Farsan K**
-### 🤖 Machine Learning Engineer | 📊 Data Scientist | 🐍 Python Developer
+# Hi, I'm **Farsan K**
+### Machine Learning Engineer | Data Scientist | Python Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Aspiring+Machine+Learning+Engineer;Building+Intelligent+AI+Solutions;Turning+Data+into+Actionable+Insights;End-to-End+ML+%26+MLOps+Enthusiast" alt="Typing SVG" />
 
@@ -18,52 +19,52 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <img align="right" src="./assets/profile.png" alt="Farsan K" width="180" style="border-radius: 50%; margin-left: 20px;" />
 
 I am a passionate **Machine Learning Engineer** who loves turning data into actionable insights and building end-to-end AI solutions. I enjoy working on real-world problems that create value and make a difference.
 
-✅ Machine Learning & Deep Learning  
-✅ Data Analysis & Visualization  
-✅ Model Deployment & MLOps  
-✅ API Development with FastAPI  
-✅ Working with SQL & Databases  
-✅ Building Scalable AI Solutions  
+Machine Learning & Deep Learning  
+Data Analysis & Visualization  
+Model Deployment & MLOps  
+API Development with FastAPI  
+Working with SQL & Databases  
+Building Scalable AI Solutions  
 
-📍 **Kerala, India**  
-🔗 **LinkedIn:** [linkedin.com/in/farsan-k](https://linkedin.com/in/farsan-k)  
-📧 **Email:** farsankk2004@gmail.com  
+**Kerala, India**  
+**LinkedIn:** [linkedin.com/in/farsan-k](https://linkedin.com/in/farsan-k)  
+**Email:** farsankk2004@gmail.com  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🐍 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 📊 Data Science
+### Data Science
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📈 Visualization
+### Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### ⚙️ Backend & Tools
+### Backend & Tools
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🗄️ Databases
+### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 <table>
@@ -71,7 +72,7 @@ I am a passionate **Machine Learning Engineer** who loves turning data into acti
 
 <td width="33%" valign="top">
 
-### 🧠 AI-Powered Mobile Addiction Prediction
+### AI-Powered Mobile Addiction Prediction
 Predicts mobile addiction risk using ML. Deployed with FastAPI.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -82,7 +83,7 @@ Predicts mobile addiction risk using ML. Deployed with FastAPI.
 
 <td width="33%" valign="top">
 
-### ⚙️ Predictive Maintenance System
+### Predictive Maintenance System
 Anomaly detection in industrial machines using Isolation Forest & DBSCAN.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -93,7 +94,7 @@ Anomaly detection in industrial machines using Isolation Forest & DBSCAN.
 
 <td width="33%" valign="top">
 
-### 🎬 Cinema Audience Forecasting
+### Cinema Audience Forecasting
 Predicts movie audience attendance using ML regression models.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -107,7 +108,7 @@ Predicts movie audience attendance using ML regression models.
 
 <td width="33%" valign="top">
 
-### 💳 UPI Transaction Analysis Dashboard
+### UPI Transaction Analysis Dashboard
 Interactive Power BI dashboard for UPI transaction insights and KPIs.
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -117,7 +118,7 @@ Interactive Power BI dashboard for UPI transaction insights and KPIs.
 
 <td width="33%" valign="top">
 
-### 🛒 Market Basket Analysis
+### Market Basket Analysis
 Association rule mining to find product relationships using Apriori algorithm.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -127,7 +128,7 @@ Association rule mining to find product relationships using Apriori algorithm.
 
 <td width="33%" valign="top">
 
-### 📊 Job Market EDA
+### Job Market EDA
 Exploratory data analysis on job market dataset to uncover insights.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -141,7 +142,7 @@ Exploratory data analysis on job market dataset to uncover insights.
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -158,15 +159,15 @@ Exploratory data analysis on job market dataset to uncover insights.
 
 <div align="center">
 
-| 📁 Total Repos | ⭐ Total Stars | 🔥 Contributions | 📅 This Year |
-|:--------------:|:-------------:|:----------------:|:------------:|
+| Total Repos | Total Stars | Contributions | This Year |
+|:-----------:|:-----------:|:-------------:|:---------:|
 | **14** | **24** | **771** | **771** |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -176,7 +177,7 @@ Exploratory data analysis on job market dataset to uncover insights.
 
 ---
 
-## 🏆 LeetCode
+## LeetCode
 
 <div align="center">
 
@@ -184,15 +185,15 @@ Exploratory data analysis on job market dataset to uncover insights.
   <img src="https://leetcard.jacoblin.cool/farsan_k?theme=dark&font=Fira%20Code&ext=contest&border=0" alt="LeetCode Stats" width="60%" />
 </a>
 
-| 💡 Problems Solved | 🏅 Contest Rating | 🏆 Contests Participated |
-|:-----------------:|:----------------:|:------------------------:|
+| Problems Solved | Contest Rating | Contests Participated |
+|:---------------:|:--------------:|:---------------------:|
 | **600+** | **150+** | **50+** |
 
 </div>
 
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -202,7 +203,7 @@ Exploratory data analysis on job market dataset to uncover insights.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -217,8 +218,9 @@ Exploratory data analysis on job market dataset to uncover insights.
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### If you like my work, consider giving a star to my repositories!
 
 <img src="https://komarev.com/ghpvc/?username=Farsan-k&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
+```
