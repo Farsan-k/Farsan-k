@@ -10,7 +10,7 @@
 <div align="center">
 
 # Hi, I'm **Farsan K**
-###  AI & ML Engineer | Data Scientist
+###  AI & ML Engineer | Data Scientist | Computer Vision Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+Intelligent+AI+Solutions;Turning+Data+into+Actionable+Insights;End-to-End+ML+%26+MLOps+Enthusiast;AI+And+ML+Engineer;Data+Scientist" alt="Typing SVG" />
 
