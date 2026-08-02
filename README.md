@@ -61,6 +61,12 @@ Outside of coding, I enjoy exploring new technologies, contributing to open-sour
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-412991?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-8A2BE2?style=for-the-badge&logoColor=white)
+![U-Net](https://img.shields.io/badge/U--Net-0EA5E9?style=for-the-badge&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ANN](https://img.shields.io/badge/ANN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 
 ### Visualization
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
