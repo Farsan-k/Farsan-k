@@ -65,7 +65,6 @@ Outside of coding, I enjoy exploring new technologies, contributing to open-sour
 ![U-Net](https://img.shields.io/badge/U--Net-0EA5E9?style=for-the-badge&logoColor=white)
 ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ANN](https://img.shields.io/badge/ANN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 
 ### Visualization
