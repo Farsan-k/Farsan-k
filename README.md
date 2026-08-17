@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- HEADER BANNER - Replace with your own banner image -->
 <img src="./assets/banner.png" alt="Farsan K - Machine Learning Engineer" width="100%" />
 
 </div>
@@ -10,7 +9,8 @@
 <div align="center">
 
 # Hi, I'm **Farsan K**
-###  AI & ML Engineer | Data Scientist | Computer Vision Engineer
+
+### AI & ML Engineer | Data Scientist | Computer Vision Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Building+Intelligent+AI+Solutions;Turning+Data+into+Actionable+Insights;End-to-End+ML+%26+MLOps+Enthusiast;AI+And+ML+Engineer;Data+Scientist" alt="Typing SVG" />
 
@@ -33,6 +33,9 @@ Currently, I'm focused on developing expertise in:
 - Data Analysis & Visualization
 - SQL & Database Management
 - MLOps & Model Deployment
+- Deep Learning
+- Computer Vision
+- NLP & LLMs
 
 I'm constantly improving my problem-solving abilities through coding practice, real-world projects, and continuous learning. My goal is to become a skilled AI & Machine Learning Engineer who builds scalable, impactful, and production-ready AI solutions.
 
@@ -42,16 +45,18 @@ Outside of coding, I enjoy exploring new technologies, contributing to open-sour
 
 **Kerala, India**  
 **LinkedIn:** [farsan-k](https://www.linkedin.com/in/farsank/)  
-**Email:** farsanfarsank41@gmail.com  
+**Email:** farsanfarsank41@gmail.com
 
 ---
 
 ## Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Data Science
+### Data Science & AI
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -66,15 +71,17 @@ Outside of coding, I enjoy exploring new technologies, contributing to open-sour
 ![CNN](https://img.shields.io/badge/CNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ANN](https://img.shields.io/badge/ANN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-
 ### Visualization
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### Backend & Tools
+### Backend, MLOps & Tools
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -83,9 +90,9 @@ Outside of coding, I enjoy exploring new technologies, contributing to open-sour
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Databases
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
@@ -93,24 +100,28 @@ Outside of coding, I enjoy exploring new technologies, contributing to open-sour
 ## Featured Projects
 
 <div align="center">
+
 <table>
+
 <tr>
 
 <td width="33%" valign="top">
 
 ### AI-Powered Mobile Addiction Prediction
-Predicts mobile addiction risk using ML. Deployed with FastAPI.
+
+Predicts mobile addiction risk using Machine Learning and provides a FastAPI-based deployment.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/-ML-FF6F00?style=flat-square)
 
 </td>
 
 <td width="33%" valign="top">
 
 ### Predictive Maintenance System
-Anomaly detection in industrial machines using Isolation Forest & DBSCAN.
+
+Anomaly detection system for industrial machines using Isolation Forest and DBSCAN.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -121,21 +132,24 @@ Anomaly detection in industrial machines using Isolation Forest & DBSCAN.
 <td width="33%" valign="top">
 
 ### Cinema Audience Forecasting
-Predicts movie audience attendance using ML regression models.
+
+Predicts movie audience attendance using Machine Learning regression models.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![ML](https://img.shields.io/badge/-ML-FF6F00?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/-ML-FF6F00?style=flat-square)
 
 </td>
 
 </tr>
+
 <tr>
 
 <td width="33%" valign="top">
 
 ### UPI Transaction Analysis Dashboard
-Interactive Power BI dashboard for UPI transaction insights and KPIs.
+
+Interactive Power BI dashboard for UPI transaction insights, KPIs, and business analysis.
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/-DAX-0078D4?style=flat-square)
@@ -145,7 +159,8 @@ Interactive Power BI dashboard for UPI transaction insights and KPIs.
 <td width="33%" valign="top">
 
 ### Market Basket Analysis
-Association rule mining to find product relationships using Apriori algorithm.
+
+Association rule mining to discover product relationships using the Apriori algorithm.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MLxtend](https://img.shields.io/badge/-MLxtend-FF6F00?style=flat-square)
@@ -155,7 +170,8 @@ Association rule mining to find product relationships using Apriori algorithm.
 <td width="33%" valign="top">
 
 ### Job Market EDA
-Exploratory data analysis on job market dataset to uncover insights.
+
+Exploratory data analysis on job market data to uncover salary, experience, location, and seniority insights.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -163,7 +179,9 @@ Exploratory data analysis on job market dataset to uncover insights.
 </td>
 
 </tr>
+
 </table>
+
 </div>
 
 ---
@@ -173,26 +191,43 @@ Exploratory data analysis on job market dataset to uncover insights.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Farsan-k&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Farsan's GitHub Stats" width="60%" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farsan-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="49%" /> -->
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farsan-k&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Farsan-k&theme=tokyonight&hide_border=true" alt="Farsan's GitHub Streak" width="80%" />
 
 </div>
+
+---
+
+## GitHub Top Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farsan-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Farsan's Top Languages" width="60%" />
+
+</div>
+
+---
 
 ## LeetCode
 
 <div align="center">
 
 <a href="https://leetcode.com/u/farsan_k" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/farsan_k?theme=dark&font=Fira%20Code&ext=contest&border=0" alt="LeetCode Stats" width="60%" />
+
+<img src="https://leetcard.jacoblin.cool/farsan_k?theme=dark&font=Fira%20Code&ext=contest&border=0" alt="LeetCode Stats" width="60%" />
+
 </a>
 
+<br><br>
+
 | Problems Solved | Contest Rating | Contests Participated |
-|:-----------------:|:----------------:|:------------------------:|
+|:---------------:|:--------------:|:---------------------:|
 | **600+** | **150+** | **50+** |
 
 </div>
@@ -204,8 +239,11 @@ Exploratory data analysis on job market dataset to uncover insights.
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farsank/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Farsan-k)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Farsan_K/)
+
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farsanfarsan41@gmail.com)
 
 </div>
@@ -218,4 +256,4 @@ Exploratory data analysis on job market dataset to uncover insights.
 
 <img src="https://komarev.com/ghpvc/?username=Farsan-k&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views" />
 
-</div> 
+</div>
