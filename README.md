@@ -20,7 +20,7 @@
 
 ## About Me
 
-<img align="right" src="./assets/profile.png" alt="Farsan K" width="180" style="border-radius: 50%; margin-left: 20px;" />
+<!-- <img align="right" src="./assets/profile.png" alt="Farsan K" width="180" style="border-radius: 50%; margin-left: 20px;" /> -->
 
 Hi, I'm **Farsan K**, an **AI & Machine Learning Engineer** and **Data Scientist** with a strong passion for solving real-world problems using data and artificial intelligence.
 
