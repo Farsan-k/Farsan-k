@@ -226,10 +226,6 @@ Exploratory data analysis on job market data to uncover salary, experience, loca
 
 <br><br>
 
-| Problems Solved | Contest Rating | Contests Participated |
-|:---------------:|:--------------:|:---------------------:|
-| **600+** | **150+** | **50+** |
-
 </div>
 
 ---
